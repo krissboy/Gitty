@@ -8,7 +8,7 @@ Domain data: Wavelength
 Incid. Angle: 0.5 * Pi
 Fixed Diameter: 100
 
-Cylinder Refractive index: From file C:\Users\Catee\Desktop\CRYSTALS_Si_sopra110.txt
+Cylinder Refractive index: Fftgtgrom file C:\Users\Catee\Desktop\CRYSTALS_Si_sopra110.txt
 Medium Refractive index: Fixed value = 1
 -----------------------------------------------
 
