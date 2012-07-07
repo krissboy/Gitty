@@ -1,0 +1,42 @@
+
+
+*******************************************************************************
+Wed Jul 04 19:59:10 2012
+
+
+FIT:    data read from 'C:\Users\Catee\Desktop\Sheet1.dat'  using 1:2
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Wed Jul 04 19:59:42 2012
+
+
+FIT:    data read from 'C:\Users\Catee\Desktop\Sheet1.dat'  using 1:2
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Wed Jul 04 20:00:10 2012
+
+
+FIT:    data read from 'C:\Users\Catee\Desktop\Sheet1.dat'  using 1:2
+        format = x:z
+        #datapoints = 10
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
